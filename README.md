@@ -10,6 +10,7 @@ This ML project, entitled "Sustainable Futures through Natural Disaster Predicti
 ##CSV file - natural_disasters_dataset.csv
 ##Complete code file name - Data_245_MachineLearning_Group_6
 ##New unseen dataset file name - new_unseen_dataset.csv 
+##Saved Model Joblib drive link -https://drive.google.com/drive/u/1/folders/1ND3XnuUrvSIkmtFcO-zI6ovv2ykQyWp3
 
 ##Table of Contents
 
