@@ -1,10 +1,15 @@
-Sustainable Future through Natural Disaster Prediction
+## Sustainable Future through Natural Disaster Prediction
 
 ## Description
 This project focuses on predicting natural disasters using machine learning techniques. It includes data collection, preprocessing, model development, evaluation, tuning, and ensemble techniques.
 
 ## Abstarct
 This ML project, entitled "Sustainable Futures through Natural Disaster Prediction," embarks on a transformative quest towards promoting heightened resilience and sustainable practices globally. The primary goal of this project is to promote the preservation of sustainability. By employing predictive techniques, we strive to reduce the detrimental impact that disasters have on ecosystems, natural resources, and the environment. The objective aligns with worldwide endeavors in addressing climate change. Through our machine learning models such as K-means clustering, Random Forest, Support Vector Machine (SVM), and Naive Bayes are used as early warning indicators, thus facilitating proactive approaches for disaster preparedness and response strategies. By thoroughly analyzing historical data on diverse types of calamities such as earthquakes, hurricanes, floods, and wildfires and by employing feature engineering, and machine learning algorithms our aim is to develop precise prediction models that offer practical insights for effective action. We will meticulously assess the performance of our prediction models in order to ensure their reliability and accuracy.
+
+##Report file name- Data_245_MachineLearning_Group_6
+##CSV file - natural_disasters_dataset.csv
+##Complete code file name - Data_245_MachineLearning_Group_6
+##New unseen dataset file name - new_unseen_dataset.csv 
 
 ##Table of Contents
 
@@ -28,9 +33,9 @@ Above 5th and 6th steps are implemented in ModelDevelopment_ModelEvaluation.ipyn
 
 This is implemented in BalancedData_ModelDevelopment.ipynb file
 
-8.Hyperparameter Tuning: We have performed hyperparameter tuning using GridSearchCV and also done visualization of Performance metrics using Grouped Bar chart. Next model deployment was done using Joblib Approach.
+8.Hyperparameter Tuning: We have performed hyperparameter tuning using GridSearchCV and also done visualization of Performance metrics using Grouped Bar chart. Next model deployment was done using Joblib Approach and tested on new unseen data. 
 
-This is implemented in HyperParameterTuning_ModelDeployment
+This is implemented in HyperParameterTuning_ModelDeployment and new unseen data testing is in Testing_the_saved_model.ipynb
 
 
 ### Prerequisites
